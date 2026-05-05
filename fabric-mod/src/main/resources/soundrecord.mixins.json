@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "cn.starry.soundrecord.fabric.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "GameMenuScreenMixin",
+    "SoundManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

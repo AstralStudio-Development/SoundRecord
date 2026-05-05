@@ -1,0 +1,15 @@
+{
+  "soundrecord.button.pause": "SoundRecord",
+  "soundrecord.screen.title": "SoundRecord Settings",
+  "soundrecord.field.tick_name": "Tick Name",
+  "soundrecord.mode.line": "Mode: %s",
+  "soundrecord.mode.all_sound": "All Sound",
+  "soundrecord.mode.music": "MusicMode",
+  "soundrecord.mode.modern": "Modern",
+  "soundrecord.mode.modern_format": "%s(%s)",
+  "soundrecord.button.start_recording": "Start Recording",
+  "soundrecord.button.stop_save": "Stop & Save",
+  "soundrecord.message.started": "Recording started.",
+  "soundrecord.message.saved": "Saved to ",
+  "soundrecord.message.saved_status": "Saved %s"
+}

@@ -1,0 +1,15 @@
+name: SoundRecord
+version: ${version}
+main: cn.starry.soundrecord.paper.SoundRecordPlugin
+api-version: '26.1'
+authors: [Starry_Killer]
+commands:
+  record:
+    description: Play or stop a SoundRecord .srd file.
+    usage: /record <file|stop>
+    permission: soundrecord.command
+permissions:
+  soundrecord.command:
+    default: op
+  soundrecord.upload:
+    default: true

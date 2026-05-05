@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "soundrecord",
+  "version": "${version}",
+  "name": "SoundRecord",
+  "description": "Records in-game sounds into .srd files and uploads them to a SoundRecord server plugin.",
+  "authors": ["Starry_Killer"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "cn.starry.soundrecord.fabric.SoundRecordClient"
+    ]
+  },
+  "mixins": [
+    "soundrecord.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": ">=26.1 <26.2",
+    "fabric-api": "*"
+  }
+}

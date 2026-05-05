@@ -1,0 +1,15 @@
+{
+  "soundrecord.button.pause": "开始录音",
+  "soundrecord.screen.title": "音效回放设置",
+  "soundrecord.field.tick_name": "Tick Name",
+  "soundrecord.mode.line": "模式: %s",
+  "soundrecord.mode.all_sound": "全部音效",
+  "soundrecord.mode.music": "音乐模式",
+  "soundrecord.mode.modern": "现代",
+  "soundrecord.mode.modern_format": "%s(%s)",
+  "soundrecord.button.start_recording": "开始录制",
+  "soundrecord.button.stop_save": "停止并保存",
+  "soundrecord.message.started": "开始录制。",
+  "soundrecord.message.saved": "已保存至 ",
+  "soundrecord.message.saved_status": "已保存 %s"
+}
