@@ -4,8 +4,6 @@
 
 Save the sounds you love forever.
 
-The initial purpose was to develop a software capable of soundtrack Hypixel SkyBlock.
-
 SoundRecord is designed to preserve music you enjoy on servers but cannot easily recreate yourself. It includes a client-side Fabric mod and a server-side Paper plugin: the client records in-game sounds into `.srd` files, while the server receives, manages, and plays those recordings.
 
 Before recording, please make sure your network connection is stable. Network conditions may affect the final recording result.
