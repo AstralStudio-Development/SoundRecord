@@ -8,6 +8,8 @@ English documentation is available in [README_EN.md](README_EN.md).
 
 将你喜欢的声音永远保存。
 
+最初的目的是开发一款用于保存Hypixel SkyBlock音乐的软件。
+
 SoundRecord 旨在保存服务器内你喜欢而无法制作出来的音乐。
 它由客户端 Fabric 模组和服务端 Paper 插件组成：客户端负责录制游戏内播放的声音并保存为 `.srd` 文件，服务端负责接收、管理和播放这些录音。
 
